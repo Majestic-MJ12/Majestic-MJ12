@@ -5,7 +5,7 @@ I'm Florent, I'm specializing in Python, Django, HTML, CSS, and JS. You'll find 
 ## 🚀 Skills
 
 - **Languages**: Python, Django, HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, VS Code, Django
+- **Tools**: Git, GitHub, VS Code, PyCharm, Django
 
 ## 💻 Projects
 
