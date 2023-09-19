@@ -1,15 +1,15 @@
 # Hello, World! 👋
 
-I'm Florent, I've learned Python, Django, HTML, CSS, and JS. You'll find all the projects I've done here. I love coding and I'm always looking for new challenges and opportunities to learn and grow.
+I'm Florent, I've learned Python, Django, HTML, CSS, and JS. You'll find all the projects I've done here. I like coding and I'm always looking for new challenges and opportunities to learn and grow.
 
 ## 🚀 Skills
 
-- **Languages**: Python, Django, HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, VS Code, PyCharm, Django
+- **Languages**: Python, Django, HTML, CSS, JavaScript, Blueprint (Unreal Engine)
+- **Tools**: Git, GitHub, VS Code, PyCharm, Django, Unreal Engine
 
 ## 💻 Projects
 
-Feel free to check out some of my repositories! I am always working on some project or idea and update my repositories regularly.
+Feel free to check out some of my repositories!
 
 ## 🎯 Interests
 
