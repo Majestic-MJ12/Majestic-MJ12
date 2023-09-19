@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Florent, I've learned Python, Django, HTML, CSS, and JS. You'll find all the projects I've done here. I like coding and I'm always looking for new challenges and opportunities to learn and grow.
+I'm Florent, you'll find all the projects I've done here. I like coding and I'm always looking for new challenges and opportunities to learn and grow.
 
 ## 🚀 Skills
 
