@@ -5,7 +5,7 @@ I'm Florent, you'll find all the projects I've done here. I like coding and I'm 
 ## 🚀 Skills
 
 - **Languages**: Python, HTML, CSS, JavaScript, Blueprint (Unreal Engine)
-- **Tools**: Git, GitHub, VS Code, PyCharm, Django, Unreal Engine
+- **Tools**: Git, GitHub, VS Code, Unreal Engine
 
 ## 💻 Projects
 
