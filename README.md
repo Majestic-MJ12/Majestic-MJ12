@@ -17,7 +17,7 @@ When I'm not coding, you can find me playing table tennis, video games, or enjoy
 
 ## 🌐 Find me elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/florent-spring-32035914b/)
+- [LinkedIn](https://www.linkedin.com/in/florent-spring/)
 
 ---
 
