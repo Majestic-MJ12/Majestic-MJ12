@@ -1,8 +1,6 @@
-
-
-### ----------------------------------------Hello, World! 👋-------------------------------------  
+### ------------------------------------------Hello, World! 👋-----------------------------------  
 <div align="center">
-<img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/GitHub_Backgroung.jpeg" align="center" height="600" width="1200" />
+<img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/GitHub_Backgroung.jpeg" align="center" height="600" width="600" />
 </div>  
   
 
