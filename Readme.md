@@ -1,4 +1,4 @@
-### Hello, World! 👋  
+# Hello, World! 👋  
 <div align="center">
 <img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/Geometric-1280x790.png" align="center" height="600" width="1200" />
 </div>  
