@@ -6,6 +6,7 @@
 ### <div align="center">I'm Florent, you'll find all the projects I've done here. I like coding and I'm always looking for new challenges and opportunities to learn and grow.</div>  
   
 <br/>  
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
@@ -17,6 +18,7 @@
 
 </td></tr></table>  
 <br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/florent-spring/" target="_blank">
@@ -25,6 +27,7 @@
 </div>  
   
 <br/>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Majestic-MJ12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
