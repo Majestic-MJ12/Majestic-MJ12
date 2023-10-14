@@ -11,9 +11,9 @@
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="75" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="75" /></a>  
-<a href="https://www.unrealengine.com/en-US/" target="_blank"><img style="margin: 10px" src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/Unreal_Engine-Logo.jpg" alt="UE" height="75" /></a>  
+<a href="https://www.unrealengine.com/en-US/" target="_blank"><img style="margin: 10px" src="https://www.unrealengine.com/en-US/home" alt="UE" height="75" /></a>  
 <a href="https://visualstudio.microsoft.com/fr/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS" height="75" /></a>  
 </div>  
 
