@@ -36,5 +36,5 @@
 </div>  
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-MJ12&layout=compact)](https://github.com/Majestic-MJ12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-MJ12&layout=compact)](https://github.com/yushi1007)
 </div>  
