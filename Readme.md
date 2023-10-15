@@ -34,3 +34,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Majestic-MJ12&&style=flat-square" align="center" />
 </div>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Majestic-MJ12)
