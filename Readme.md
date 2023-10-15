@@ -29,8 +29,8 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Majestic-MJ12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-MJ12&theme=tokyonight)
 
