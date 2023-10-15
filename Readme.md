@@ -31,8 +31,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Majestic-MJ12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-MJ12&theme=tokyonight)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Majestic-MJ12&&style=flat-square" align="center" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majestic-MJ12)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
