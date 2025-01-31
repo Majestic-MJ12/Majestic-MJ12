@@ -1,6 +1,6 @@
 # Hello, World! 👋  
 <div align="center">
-<img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/IT-white_4096px.jpeg" align="center" height="480" width="720" />
+<img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/IT_blue_2048px.png" align="center" height="480" width="720" />
 </div>  
   
 ### <div align="center">I'm Florent, you'll find all the projects I've done here. I like coding and I'm always looking for new challenges and opportunities to learn and grow.</div>  
